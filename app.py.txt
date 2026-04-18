@@ -2,6 +2,8 @@ import streamlit as st
 import google.generativeai as genai
 
 st.title("AqlVoy Yordamchi")
+
+# API kalitingizni shu yerga qo'ying
 api_key = "AIzaSyAregfoifufu0owMdi05ysRg2IXaaHpEk4"
 genai.configure(api_key=api_key)
 
