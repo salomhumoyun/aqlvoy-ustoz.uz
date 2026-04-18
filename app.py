@@ -1,5 +1,5 @@
 import streamlit as st
-import google.generativeai as genai
+import google.generativeai as gemini
 
 # Page configuration
 st.set_page_config(page_title="AqlVoy Yordamchi", page_icon="🎓")
